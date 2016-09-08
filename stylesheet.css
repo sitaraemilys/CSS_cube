@@ -47,7 +47,7 @@ background: linear-gradient(to left, #A1FFCE , #FAFFD1); /* W3C, IE 10+/ Edge, F
   width: 200px;
   height: 200px;
   opacity: 0.98;
-  box-shadow: inset 0px 0px 100px #FF5F6D;
+  box-shadow: inset 0px 0px 100px  #ffb3ff;
 }
 
 .back {
